@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  🔧 <strong>Administrador de Infraestrutura e Segurança de TI</strong><br><br>
 
-<!--
-**pauloflau/pauloflau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🚀 <strong>Transição para Desenvolvedor Java Back-end</strong><br><br>
 
-Here are some ideas to get you started:
+  🌱 Estudando <strong>Java, Spring Boot, APIs REST, Docker e Banco de Dados</strong><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  💬 Interesses: Arquitetura de Software, Microsserviços e Cloud
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,html,css,js,angular,linux,git" />
+</div>
+
+<br>
+
+<div align="center"> 
+  <a href="mailto:pauloflau@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>  
+  <a href="https://www.linkedin.com/in/pauloflau/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
