@@ -1,9 +1,9 @@
 <div align="center">
-  🔧 <strong>Administrador de Infraestrutura e Segurança de TI</strong><br><br>
-
   🚀 <strong>Transição para Desenvolvedor Java Back-end</strong><br><br>
-
-  🌱 Estudando <strong>Java, Spring Boot, APIs REST, Docker e Banco de Dados</strong><br><br>
+  
+  🔧 <strong>Administrador de Infraestrutura e Segurança de TI</strong><br><br>
+  
+  🌱 Estudando <strong>Java, Spring Boot, APIs REST, Docker e Banco de Dados</strong>
 
   💬 Interesses: Arquitetura de Software, Microsserviços e Cloud
 </div>
