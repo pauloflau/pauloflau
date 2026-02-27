@@ -1,17 +1,25 @@
 <div align="center">
-  🚀 <strong>Transição para Desenvolvedor Java Back-end</strong><br><br>
-  
-  🔧 <strong>Administrador de Infraestrutura e Segurança de TI</strong><br><br>
-  
-  🌱 Estudando <strong>Java, Spring Boot, APIs REST, Docker e Banco de Dados</strong>
+  <p style="margin: 0 0 8px 0;">
+    🚀 <strong>Transição para Desenvolvedor Java Back-end</strong>
+  </p>
 
-  💬 Interesses: Arquitetura de Software, Microsserviços e Cloud
+  <p style="margin: 0 0 8px 0;">
+    🔧 <strong>Administrador de Infraestrutura e Segurança de TI</strong>
+  </p>
+
+  <p style="margin: 0 0 8px 0;">
+    🌱 Estudando: <strong>Java, Spring Boot, APIs REST, Docker e Banco de Dados</strong>
+  </p>
+
+  <p style="margin: 0;">
+    💬 Interesses: <strong>Arquitetura de Software, Microsserviços e Cloud</strong>
+  </p>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,html,css,js,angular,linux,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,python,docker,js,angular" />
 </div>
 
 <br>
